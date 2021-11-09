@@ -1,3 +1,4 @@
+
 This is my Visma Java Developer Task for Internship.
 
 URI's of the required endpoints:
@@ -48,5 +49,21 @@ URI's of the required endpoints:
 } </pre>
   </li>
   </ul>
-  <br><br>
+  <br>
   Unit tests are written for all of the Service classes.
+  <br><br>
+  Some additional endpoints:
+  <ul>
+  <li> Getting an array of all the books in library: <br> http://localhost:8080/api/visma-task/books/getAllBooks</li>
+  <li> Getting the array of all the library members:<br> http://localhost:8080/api/visma-task/members/getAllMembers</li>
+  <li> Adding a new library member: <br> http://localhost:8080/api/visma-task/members/addMember <br> Example of body required: <br> <pre>
+  {
+    "memberId" : 854741023,
+    "name" : "Vardenis",
+    "surname" : "Pavardenis"
+} </pre> </li>
+</ul>
+<br><br>
+JDK used: 11
+  
+  
