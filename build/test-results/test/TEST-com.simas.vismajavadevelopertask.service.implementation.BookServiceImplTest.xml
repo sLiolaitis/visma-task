@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.simas.vismajavadevelopertask.service.implementation.BookServiceImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-11-09T10:31:50" hostname="DESKTOP-CVNTJ9B" time="0.114">
+  <properties/>
+  <testcase name="Testing if book is deleted" classname="com.simas.vismajavadevelopertask.service.implementation.BookServiceImplTest" time="0.073"/>
+  <testcase name="Testing if the right amount of books is returned" classname="com.simas.vismajavadevelopertask.service.implementation.BookServiceImplTest" time="0.003"/>
+  <testcase name="Testing if the right book is returned by GUID" classname="com.simas.vismajavadevelopertask.service.implementation.BookServiceImplTest" time="0.008"/>
+  <testcase name="Testing amount of filtered books" classname="com.simas.vismajavadevelopertask.service.implementation.BookServiceImplTest" time="0.016"/>
+  <testcase name="Testing if the book is added" classname="com.simas.vismajavadevelopertask.service.implementation.BookServiceImplTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
